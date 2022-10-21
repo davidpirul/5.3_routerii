@@ -1,0 +1,7 @@
+.active {
+    color: rgb(255, 0, 0);
+}
+
+.no-active {
+    color: rgb(255, 199, 199);
+}

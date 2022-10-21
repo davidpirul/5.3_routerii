@@ -1,0 +1,36 @@
+.titulo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 2%;
+    border-radius: 3%;
+}
+
+.titulo p {
+    font-weight: bold;
+    font-size: larger;
+    text-transform: capitalize;
+}
+
+.description img {
+    height: 25rem;
+    background-color: rgba(146, 146, 146, 0.24);
+    border-radius: 2%;
+    padding: 4%;
+    display: flex;
+    align-items: center;
+    margin: auto;    
+}
+
+.information {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 1%;
+}
+
+.display {
+    display: flex;
+    flex-direction: row;
+}
